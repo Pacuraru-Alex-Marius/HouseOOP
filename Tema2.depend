@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1653281813 source:c:\users\crist\documents\tema2\main.cpp
+	<iostream>
+	"House.h"
+
+1653280202 c:\users\crist\documents\tema2\sensor.h
+	<ctime>
+
+1653301603 c:\users\crist\documents\tema2\room.h
+	<vector>
+	<fstream>
+	<iomanip>
+	"Sensor.h"
+
+1653140002 c:\users\crist\documents\tema2\house.h
+	"Room.h"
+
+1653281813 source:c:\users\alex\desktop\tema2\main.cpp
+	<iostream>
+	"House.h"
+
+1653140002 c:\users\alex\desktop\tema2\house.h
+	"Room.h"
+
+1653301603 c:\users\alex\desktop\tema2\room.h
+	<vector>
+	<fstream>
+	<iomanip>
+	"Sensor.h"
+
+1653280202 c:\users\alex\desktop\tema2\sensor.h
+	<ctime>
+
